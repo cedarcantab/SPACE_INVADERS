@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "squid1.png",
+	"frame": {"x":0,"y":0,"w":8,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":8},
+	"sourceSize": {"w":8,"h":8}
+},
+{
+	"filename": "squid2.png",
+	"frame": {"x":8,"y":0,"w":8,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":8},
+	"sourceSize": {"w":8,"h":8}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "squid.png",
+	"format": "RGBA8888",
+	"size": {"w":16,"h":8},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:02b2c53d0693c65094f24a806d9e2398:17841bc709b53dcd9215533589d50d28:d55d539b70be719a07b9f5f71c6d0660$"
+}
+}

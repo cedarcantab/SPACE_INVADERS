@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "octopus1.png",
+	"frame": {"x":0,"y":0,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":12,"h":8}
+},
+{
+	"filename": "octopus2.png",
+	"frame": {"x":12,"y":0,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":8},
+	"sourceSize": {"w":12,"h":8}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "octopus.png",
+	"format": "RGBA8888",
+	"size": {"w":24,"h":8},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9796fd77d435deec806204549b1097ce:f399f4871ba6fab548e82e92b660d1fc:226668af29322add4ef7b6d1c6eeda26$"
+}
+}
